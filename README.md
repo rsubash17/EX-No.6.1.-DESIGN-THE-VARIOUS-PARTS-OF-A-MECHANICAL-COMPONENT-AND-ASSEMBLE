@@ -63,11 +63,8 @@ If the components do not fit properly into the slots, it can be moved into the s
 ![image](https://user-images.githubusercontent.com/113594316/199413636-df0a61ce-964f-490d-9a16-e5986ebbf403.png)
 
 ## OUTPUT:
-![6 1 PART 1 SUBASH_page-0001](https://github.com/rsubash17/EX-No.6.1.-DESIGN-THE-VARIOUS-PARTS-OF-A-MECHANICAL-COMPONENT-AND-ASSEMBLE/assets/147139828/2a01f2d4-06e6-4675-bc1f-7d29104cfb43)
-![image](https://github.com/rsubash17/EX-No.6.1.-DESIGN-THE-VARIOUS-PARTS-OF-A-MECHANICAL-COMPONENT-AND-ASSEMBLE/assets/147139828/45db89e5-b503-4ca0-bf69-25ef54e2dedc)
+![EDM EX 6 1 Drawing v2 (2)_page-0001](https://github.com/rsubash17/EX-No.6.1.-DESIGN-THE-VARIOUS-PARTS-OF-A-MECHANICAL-COMPONENT-AND-ASSEMBLE/assets/144980101/6152d581-e00e-4fc6-8785-5df04a0f9445)
 
-![6 1 part 3 Subash_page-0001](https://github.com/rsubash17/EX-No.6.1.-DESIGN-THE-VARIOUS-PARTS-OF-A-MECHANICAL-COMPONENT-AND-ASSEMBLE/assets/147139828/d51cc9d2-ab27-4569-b061-e105d796e18f)
-![6 1 part 4 subash_page-0001](https://github.com/rsubash17/EX-No.6.1.-DESIGN-THE-VARIOUS-PARTS-OF-A-MECHANICAL-COMPONENT-AND-ASSEMBLE/assets/147139828/f4f1b18f-a2c4-41e9-a185-342bdd324d06)
 
 
 
